@@ -5,10 +5,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #E7C24F ;
-  --accent1-color: #A42212;
-  --accent2-color: white;
+  --primary-color: #8ECAE6   ;
+  --secondary-color: #219EBC ;
+  --accent1-color: #FFFFFF;
+  --accent2-color: #FB8500;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Bebas Neue";
@@ -42,7 +42,7 @@ img {
   max-width: 300px;
 }
 h1, h2, h3, h4, h5, h6 {
-  Bebas Neue: var(--heading-font);
+  (Bebas Neue): var(--heading-font);
   color: var(--headline-color-on-white);
 }
 h2 {
