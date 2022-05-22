@@ -22,9 +22,13 @@ nav a:hover {
 }
 
 .book, .join{
-    background-color: black;
-    color: blue;
+    background-color: #d9c2a3;
+    color: black;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover, .join:hover{
@@ -44,7 +48,8 @@ nav a:hover {
 
 
 footer{
-    
+    padding: 25px 50px;
+    margin-top: 200px;
     background-color: steelblue;
     color: white;
 
@@ -53,9 +58,12 @@ footer{
 nav a {
     color: #d9c2a3;
     text-decoration: none;
+    text-align: center;
+    padding: 35px;
 }
 
 .home-title{
+    margin-top: 10px;
 
     color:aqua;
 }
@@ -67,6 +75,7 @@ h4{
     color:blanchedalmond;
 }
 .msg p {
+    padding-bottom: 15px;
     color:black;
 }
 
@@ -89,6 +98,7 @@ footer a:hover{
     width: 80px;
 }
 .icon {
+    padding-top: 10px;
     width: 80px;
 }
 #hero-img{
@@ -114,4 +124,44 @@ body {
 }
 img {
     border: 4px solid steelblue;
+}
+
+
+/* This week assignment*/
+
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
+
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+  }
+
+  body {
+    background-color: #fcfbfb;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+#logo_link   {padding-top: 5px;
+}
+
+footer .social img{
+    padding-top: 15px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
 }
