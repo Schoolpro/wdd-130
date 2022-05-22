@@ -80,7 +80,7 @@ footer a {
 
 footer a:hover{
     color:green;
-    text-decoration: underline;
+    text-decoration: underline ;
 }
 .logo{
     width: 80px;

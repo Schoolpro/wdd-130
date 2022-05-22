@@ -41,7 +41,7 @@ img {
   margin: 0 auto;
   max-width: 300px;
 }
-h1, h2, h3, h4, h5, h6 {
+h1 {
   (Bebas Neue): var(--heading-font);
   color: var(--headline-color-on-white);
 }
